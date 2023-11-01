@@ -11,10 +11,10 @@
 1. 创建新的分支:（5‘）
 * 创建一个名为feature-newFunc的新分支，并切换到这个分支。
 2. 在feature-newFunc分支上进行两次提交。（2‘）
-*  操作指令如下：
+* 操作指示：  
   1) 第一次提交在diary.txt文件中，添加以下条目：2023-10-28: Started developing a new feature.  
      * 保存文件。
-     * 提交这个更改，并在提交信息中描述为："Added diary entry for feature start".  
+     * 提交这个更改，并在提交信息中描述为："Added diary entry for feature work".  
   2) 第二次提交再次在diary.txt文件中，添加以下条目：2023-10-29: Continued work on the new feature.  
      * 保存文件。
      * 提交这个更改，并在提交信息中描述为："Added another diary entry for feature work".
