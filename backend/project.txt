@@ -1,1 +1,6 @@
 This is the start of our project.
+-e
+We've switched to another branch.
+We've added some initial functions.
+This is the start of our project.
+This shouldn't be here.
